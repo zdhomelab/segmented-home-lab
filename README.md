@@ -2,7 +2,7 @@
 
 A segmented network built on a Cisco 1921 router and a Cisco 2960 switch. It separates servers, clients and IoT devices into three VLANs, routes between them with an access control list, and carries a two-host Proxmox cluster that runs an Active Directory domain.
 
-![Segmented network architecture](infographic-segmented-network.png)
+![Segmented network architecture](infog/infographic-segmented-network.png)
 
 ## Design
 
